@@ -1,0 +1,14 @@
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\ASPNet.EXAM.dll.config
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\ASPNet.EXAM.dll
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\ASPNet.EXAM.pdb
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\EntityFramework.dll
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\EntityFramework.SqlServer.dll
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\EntityFramework.xml
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\EntityFramework.SqlServer.xml
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\obj\Debug\ASPNet.EXAM.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\obj\Debug\ASPNet.EXAM.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\obj\Debug\ASPNet.EXAM.csproj.CopyComplete
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\obj\Debug\ASPNet.EXAM.dll
+C:\Users\пк\Desktop\ITMO.Coursre2021.ASPNete-master\Akt03.EXAM\ASPNet.EXAM\obj\Debug\ASPNet.EXAM.pdb
